@@ -1,0 +1,10 @@
+{
+  "simulation": "uc1",
+  "simulationId": "uc1",
+  "start": 1585071811389,
+  "description": "1_Host-800_maxHostConcurrentUsers",
+  "scenarios": ["Users"],
+  "assertions": [
+
+  ]
+}
