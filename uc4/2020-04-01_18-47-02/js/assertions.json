@@ -1,0 +1,10 @@
+{
+  "simulation": "uc4",
+  "simulationId": "uc4",
+  "start": 1585766612985,
+  "description": "1_Host",
+  "scenarios": ["Users"],
+  "assertions": [
+
+  ]
+}
